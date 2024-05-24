@@ -1,0 +1,19 @@
+Admin: 
+        Get all users [Done]
+        Add a user [Done]
+        Update a user [Done]
+        Delete a user [done]
+    
+
+Technical lead: 
+
+            Get members of his team based on emp_id
+
+Employee: 
+            Get details of employee based on emp_id
+
+Hr:
+        Get all users [Done]
+
+referrences:
+https://stackoverflow.com/questions/5794834/how-to-access-a-preexisting-collection-with-mongoose

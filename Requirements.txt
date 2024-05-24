@@ -1,0 +1,15 @@
+Overall view:
+
+    Allow the employee to login using Employee id and password
+        Sign in page With two fields Employee_id and password
+    After login sucessful, Display a Dashboard page 
+        Dashpage - a header with user profile in the topmost right
+                    - A sidebar navigation bar in the left side
+                    - middle page with some tables about employee
+
+
+
+Sign in page:
+    A form with input and label fields 
+    submit button
+    

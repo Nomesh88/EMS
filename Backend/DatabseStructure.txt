@@ -1,0 +1,16 @@
+  DatabseStructure:
+    emp_id 
+    first_name 
+    last_name 
+    email 
+    gender 
+    department 
+    password 
+
+
+Privilages:
+
+        Admin : Has privilage for the entire application
+        Technical Lead : has only allowed to see his team members
+        HR: has view of entire db , but not add, delete - it just forwards srequest to Admin
+
